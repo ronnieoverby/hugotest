@@ -20,6 +20,3 @@ postcss = false
 # Include the author name in the <title> of articles
 includeAuthorInTitle = true
 
-[[params.social]]
-icon = "github"
-url = "https://github.com/ronnieoverby/"
